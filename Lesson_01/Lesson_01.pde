@@ -1,6 +1,6 @@
 //Lesson 1 - Shapes
 //Try moving these shapes around and resizing them.
-//Note: the semi-colons are important.
+//Note: the semi-colons are important!
 
 //size of the window on which you are drawing
 //size(width, height);
