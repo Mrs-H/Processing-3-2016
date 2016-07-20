@@ -9,3 +9,5 @@ Monday, July 18, 2016 - Lesson 01
 - Example Program 2 - Using Color
 - Project 1: Create your own creature
 
+Tuesday, July 19, 2016 - Lesson 02
+
