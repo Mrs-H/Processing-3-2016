@@ -6,4 +6,5 @@ void setup()
 void draw()
 {
   println("I'm running");
+  delay(1000);
 }
