@@ -11,3 +11,5 @@ Monday, July 18, 2016 - Lesson 01
 
 Tuesday, July 19, 2016 - Lesson 02
 
+Continued November 8, 2016
+
